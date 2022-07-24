@@ -13,9 +13,10 @@ You can see the test and training data numbers in the figure below.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/81585804/180644823-bf0acc7a-f342-4adb-837e-c10164ac4dd1.png" width="350" height="250">
+ <img src="https://user-images.githubusercontent.com/81585804/180644825-46f144b0-c74a-4d8a-8355-0e9dac8ede96.png" width="350" height="250">
 </p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/81585804/180644825-46f144b0-c74a-4d8a-8355-0e9dac8ede96.png" width="350" height="250">
+
 </p>
 
 ## 2. AI:
