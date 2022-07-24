@@ -33,11 +33,11 @@ Tradionally CNN is for mostly used for Image Processing and I kept this traditio
 
 Here are some test examples:
 <p align="center">
-  <img src=https://user-images.githubusercontent.com/81585804/180645055-a03cb091-7aa7-4fe5-bda0-abafda6382fd.jpg alt="drawing" width="220" height="230"/>
-  <img src=https://user-images.githubusercontent.com/81585804/180645056-2f920d79-6b3c-4483-9fc3-ebb2f8f5e4b1.jpg alt="drawing" width="220" height="230"/> 
-  <img src=https://user-images.githubusercontent.com/81585804/180645057-5bacd6a3-af6d-42fb-9d8d-bd5989e8b371.jpg alt="drawing" width="220" height="230"/>
-  <img src=https://user-images.githubusercontent.com/81585804/180645058-3d56cbf7-9a38-42c3-96cf-70d9aab0289f.jpg alt="drawing" width="220" height="230"/>
-  <img src=https://user-images.githubusercontent.com/81585804/180645061-d1ae158f-9891-4500-9c2f-029974ae33ea.jpg alt="drawing" width="220" height="230"/>
+  <img src=https://user-images.githubusercontent.com/81585804/180645055-a03cb091-7aa7-4fe5-bda0-abafda6382fd.jpg alt="drawing" width="250" height="250"/>
+  <img src=https://user-images.githubusercontent.com/81585804/180645056-2f920d79-6b3c-4483-9fc3-ebb2f8f5e4b1.jpg alt="drawing" width="250" height="250"/> 
+  <img src=https://user-images.githubusercontent.com/81585804/180645057-5bacd6a3-af6d-42fb-9d8d-bd5989e8b371.jpg alt="drawing" width="250" height="250"/>
+  <img src=https://user-images.githubusercontent.com/81585804/180645058-3d56cbf7-9a38-42c3-96cf-70d9aab0289f.jpg alt="drawing" width="250" height="250"/>
+  <img src=https://user-images.githubusercontent.com/81585804/180645061-d1ae158f-9891-4500-9c2f-029974ae33ea.jpg alt="drawing" width="250" height="250"/>
 </p>
 
 ## 4. Database:
