@@ -58,7 +58,7 @@ CREATE TABLE `fer` (
 
 1. Fork this repository.
  ```console
-$ git clone https://github.com/MelihGulum/CIFAR-10-CNN-FLASK-Deployment.git
+$ git clone https://github.com/MelihGulum/Facial-Emotion-Recognition.git
 
 ```
 
