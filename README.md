@@ -6,7 +6,7 @@ The challenge is consist of two part. The first part making a prediction of 5 cl
 I used the FER2013 dataset fort his challenge. It consists of 7 class. These are “Angry”, “Disgust”, “Fear”, “Happy”, “Neutral”, “Sad”, “Suprise”. FER2013 is a well studied dataset and has been used in ICML competitions and several research papers. It is one of the more challenging datasets with human-level accuracy only at **65±5%** and the highest performing published works achieving 75.2% test accuracy I drop two class (Disgust and Suprise). Afterwards I assigned Sad and Angry as “NOT Okay”. On the other hand the other 3 class assigned as “Okay”.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/81585804/180644734-e8c04654-73bd-4190-aa3f-c6bde8bc0cfd.png" width="350" height="250">
+<img src="https://user-images.githubusercontent.com/81585804/180644734-e8c04654-73bd-4190-aa3f-c6bde8bc0cfd.png" width="600" height="250">
 </p>
 
 You can see the test and training data numbers in the figure below.
@@ -15,9 +15,7 @@ You can see the test and training data numbers in the figure below.
 <img src="https://user-images.githubusercontent.com/81585804/180644823-bf0acc7a-f342-4adb-837e-c10164ac4dd1.png" width="350" height="250">
  <img src="https://user-images.githubusercontent.com/81585804/180644825-46f144b0-c74a-4d8a-8355-0e9dac8ede96.png" width="350" height="250">
 </p>
-<p align="center">
 
-</p>
 
 ## 2. AI:
 Tradionally CNN is for mostly used for Image Processing and I kept this tradition. My  model is similiar with VGG architecture. Before training I generate some artificial data with the help of ImageDataGenerator. Then, set some training parameters like batch size (64) and epoch (100). Final test accuracy is **68.5±3%.**
@@ -25,10 +23,9 @@ Tradionally CNN is for mostly used for Image Processing and I kept this traditio
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/81585804/180644754-4ad646a8-5e95-4a5b-9324-9265bd2c08c3.png" width="350" height="250">
+ <img src="https://user-images.githubusercontent.com/81585804/180644755-ce2b4073-ac3b-4c4e-9f48-b6285ce860af.png" width="350" height="250">
 </p>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/81585804/180644755-ce2b4073-ac3b-4c4e-9f48-b6285ce860af.png" width="350" height="250">
-</p>
+
 
 ## 3. Outputs:
 * You can make real-time predictions with **FER_video.py**.
