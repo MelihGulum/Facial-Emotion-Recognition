@@ -70,4 +70,4 @@ $ git clone https://github.com/MelihGulum/Facial-Emotion-Recognition.git
 pip install -r requirements.txt
 ```
 
-3. Now you can run app.py. But if you want you can run .ipynb and you can build your own model. It is up to you. 
+3. Now you can run FER_video.py or FER_image.py. But if you want you can run .ipynb and you can build your own model. It is up to you. 
