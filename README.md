@@ -22,8 +22,8 @@ Tradionally CNN is for mostly used for Image Processing and I kept this traditio
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/81585804/180644754-4ad646a8-5e95-4a5b-9324-9265bd2c08c3.png" width="350" height="250">
- <img src="https://user-images.githubusercontent.com/81585804/180644755-ce2b4073-ac3b-4c4e-9f48-b6285ce860af.png" width="350" height="250">
+<img src="https://user-images.githubusercontent.com/81585804/180644754-4ad646a8-5e95-4a5b-9324-9265bd2c08c3.png" width="450" height="250">
+ <img src="https://user-images.githubusercontent.com/81585804/180644755-ce2b4073-ac3b-4c4e-9f48-b6285ce860af.png" width="450" height="250">
 </p>
 
 
